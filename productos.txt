@@ -1,0 +1,13 @@
+Producto: Producto 2
+Precio unitario: $20.00
+IVA: $2.60
+Total: $22.60
+Producto: Producto 3
+Precio unitario: $30.00
+IVA: $3.90
+Total: $33.90
+Producto: Producto 1
+Precio unitario: $10.00
+IVA: $1.30
+Total: $11.30
+____________________________________Total IVA: $7.80    Total a Pagar: $67.80
